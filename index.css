@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	font-family: Montserrat, sans-serif;
+}
+
+.font-200 {
+	font-weight: 200;
+}
+
+.font-400 {
+	font-weight: 400;
+}
+
+.font-600 {
+	font-weight: 600;
+}
+
+.heading-1-style {
+	font-size: 3rem;
+	font-kerning: auto;
+}
+
+.orange-font-color {
+	color: #fb6f46;
+}
+
+.brown-font-color {
+	color: #998888;
+}
+
+.light-yellow-font-color {
+	color: #ffcf8e;
+}
+
+.forest-green-font-color {
+	color: #7c7f54;
+}
+
+.yellow-font-color {
+	color: #ffcb8d;
+}
+
+.camp-bg-full {
+	background-image: url("./assets/mhmd-sedky-unsplash.jpg");
+	height: 95vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.nav {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	align-items: center;
+}
+
+.img-size {
+	width: 6.5rem;
+}
+
+.nav-link {
+	color: #edebe6;
+}
+
+.jumbotron {
+	background: transparent;
+	color: #edebe6;
+	display: flex;
+}
+
+#jumbo-height {
+	height: 60%;
+}
+
+.lead {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+.vertical-text {
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	color: #66593f;
+}
+
+.long-border {
+	width: 1px;
+	border-right: solid #66593f;
+	height: 5rem;
+}
+
+.follow-img-size {
+	width: 2.5rem;
+	margin: 5px;
+}
+
+.img-thumbnail {
+	background-color: #ad6032;
+}
+
+.arrow-down {
+	color: #cca75e;
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	font-size: 5rem;
+}
+
+.no-border-style {
+	border-style: none;
+}
+
+.display-4 {
+	color: #7c7f54;
+}
+
+.card-body > h4 {
+	color: #998888;
+}
+
+#gallery-section {
+	background-color: #7c7f54;
+}
+
+div.col.card {
+	padding: 0px;
+}
+
+.bg-card-style {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 45vh;
+}
+
+#card-1 {
+	background-image: url("./assets/alexey-artyukh-unsplash.jpg");
+}
+
+#card-2 {
+	background-image: url("./assets/jonathan-forage-unsplash.jpg");
+}
+
+#card-3 {
+	background-image: url("./assets/kevin-schmid-unsplash.jpg");
+}
+
+#card-4 {
+	background-image: url("./assets/tommy-lisbin-2DH-unsplash.jpg");
+}
+
+#card-5 {
+	background-image: url("./assets/ahmed-zayan-unsplash.jpg");
+}
+
+#card-6 {
+	background-image: url("./assets/dino-reichmuth-unsplash.jpg");
+}
+
+#card-7 {
+	background-image: url("./assets/rahul-bhosale-unsplash.jpg");
+}
+
+#card-8 {
+	background-image: url("./assets/jimmy-conover-unsplash.jpg");
+}
+
+.btn-outline-primary {
+	border-color: #ffcb8d;
+}
+
+.btn-outline-secondary {
+	border-color: #7c7f54;
+}
+
+.mini-img-thumbnail {
+	width: 60px;
+}
+
+.x-mark {
+	font-size: 2.5rem;
+}
+
+.flex-img-overlay-container {
+	align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+
+#pre-footer-section {
+	background-color: #fb6f46;
+}
+
+.input-width {
+	width: 40%;
+}
+
+#footer-section {
+	background-color: #4e463d;
+}
